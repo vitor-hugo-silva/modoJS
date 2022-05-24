@@ -9,9 +9,12 @@ Exercícios do módulo voltado para JavaScript (Curso RocketSeat)
   A funçao deve ser chamada dentro de um console.log(). Ex.: console.log(pegaNotaFinal(89))
   </p>
   
-  ## Quero visualizar o resultado do Segundo exercicio
+## Quero visualizar o resultado do Segundo exercicio
   - Arraste o arquivo .html para o seu browser;
   - Pressione a tecla F12 para que sejam abertas as ferramentas de desenvolvedor 
+
+## Para visualizar os demais
+  - Repita os passos anteriores 
   
   
   
